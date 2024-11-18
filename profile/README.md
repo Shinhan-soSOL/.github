@@ -38,36 +38,21 @@
 - 신규 2030 고객 / 앱내 체류 시간 확보
 
 
-## 랭킹
+## 주요 기능 GIF
 <table style="border: 0.5 solid gray">
  <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/72cfc1f0-bf3a-4d75-99be-11b584286ad5" width="200px" alt=""></td>
-    <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/ff6ed9c1-af04-47d2-a55c-1c71dc093367" width="200px" alt=""></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/70672347-8fff-4514-9331-4a1fcf6d5c58" width="200px" alt=""></td>
+    <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/2a9e5c48-c764-4749-876a-9a27a08943c4" width="200px" alt=""></td>
 
   </tr>
   
   <tr>
-    <td align="center"><b>클럽 별 랭킹</b></td>
-    <td align="center"style="border-right : 0.5px solid gray"><b>클럽 내 랭킹</b></td>
+    <td align="center"><b>계좌 및 잔돈 설정</b></td>
+    <td align="center"style="border-right : 0.5px solid gray"><b>보유 주식 조회</b></td>
   </tr>
 
 </table>
 
-## 마이 프로필
-
-<table style="border: 0.5 solid gray">
- <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/f73d7a9d-2789-4d38-800f-50a533fcf48a" width="200px" alt=""></td>
-    <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/d1ae9fdf-cd20-4354-9f03-580819913aa1" width="200px" alt=""></td>
-
-  </tr>
-  
-  <tr>
-    <td align="center"><b>내 포트폴리오</b></td>
-    <td align="center"style="border-right : 0.5px solid gray"><b>내 스토리</b></td>
-  </tr>
-
-</table>
 
 
  # 👋🏻 참여 인원
@@ -100,7 +85,7 @@
 
 # 💻 설계
 ## ERD
-![sosol-erd](https://github.com/user-attachments/assets/cb7f0d04-3bea-4cbd-a61c-8969d65f62aa)
+![sosol-erd](https://github.com/user-attachments/assets/57f23d89-814e-4ffb-9dc3-31ba9dd0efe8)
 
 
 ## 시스템 아키텍쳐
