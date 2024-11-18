@@ -79,6 +79,23 @@
     <td align="center" style="border-right : 0.5px solid gray">Back-End/</td>
   </tr>
 
+  <tr>
+    <td><ul>
+      <li>기획</li>
+      <li>UI/UX</li>
+      <li>화면 개발</li>
+    </ul></td>
+    <td><ul>
+      <li>기획</li>
+    </ul></td>
+    <td><ul>
+      <li>기획</li>
+    </ul></td>
+    <td><ul>
+      <li>기획</li>
+    </ul></td>
+  </tr>
+  
 </table>
 
 <br/>
