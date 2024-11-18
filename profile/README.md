@@ -114,21 +114,30 @@
 ![JavaScript](https://img.shields.io/badge/java_script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Tailwind css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/type_script-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Jotai](https://img.shields.io/badge/jotai-6E6E6E?style=for-the-badge&logo=jotai&logoColor=white)
+![Mui](https://img.shields.io/badge/mui-2E64FE?style=for-the-badge&logo=mui&logoColor=white)
+![axios](https://img.shields.io/badge/axios-0B6138?style=for-the-badge&logo=axios&logoColor=white)
 
 ## 백엔드
-![Java](https://img.shields.io/badge/java-1496FF?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-0431B4?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-0B6138?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/python-0174DF?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## 인프라
-![NHN](https://img.shields.io/badge/nhn-3465DF?style=for-the-badge&logo=nhn&logoColor=white)
+![NHN](https://img.shields.io/badge/nhn-3465DF?style=for-the-badge&logo=icloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-08088A?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-8904B1?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-0B6138?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 ## 협업
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
 ![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
 
 <br/>
 
