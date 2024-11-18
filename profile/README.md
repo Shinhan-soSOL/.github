@@ -82,17 +82,24 @@
   <tr>
     <td><ul>
       <li>기획</li>
-      <li>UI/UX</li>
-      <li>화면 개발</li>
+      <li>UI/UX 설계</li>
+      <li>계좌 등록, 홈, 히스토리 등 화면 개발</li>
     </ul></td>
     <td><ul>
       <li>기획</li>
+      <li>아키텍처 설계</li>
+      <li>CI/CD 및 배포</li>
     </ul></td>
     <td><ul>
       <li>기획</li>
+      <li>Fast API 서버</li>
+      <li>매수 기능 등 로직 개발</li>
     </ul></td>
     <td><ul>
       <li>기획</li>
+      <li>Springboot 서버</li>
+      <li>보유 종목 조회 등 로직 개발</li>
+      <li></li>
     </ul></td>
   </tr>
   
