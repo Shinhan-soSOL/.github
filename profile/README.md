@@ -32,9 +32,8 @@
 
 # 참조
 <!-- 노션 확인 후 추가 -->
-### 📄 [노션]()
-### 🎨 [피그마]()
-### 🍔 [API 명세]()
+### 🎨 [피그마](https://www.figma.com/design/Gfzu4nOf8rTSqXSeSwzttP/%EC%9E%94%EB%8F%88%EC%A3%BC%EC%8B%9D?node-id=2-2&node-type=canvas&t=UUgAqTGni8FZvwk8-0)
+### 🍔 [API 명세](https://poised-mandible-7e9.notion.site/API-127886d2ad52800c8a86c3305af348d8)
 
 # ✨ 사이트
 ### 🐙[soSOL 바로가기](<!-- url 채워 넣기 -->)
