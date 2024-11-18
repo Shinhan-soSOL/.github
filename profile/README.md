@@ -101,6 +101,7 @@
 
 # 💻 설계
 ## ERD
+![sosol-erd](https://github.com/user-attachments/assets/cb7f0d04-3bea-4cbd-a61c-8969d65f62aa)
 
 
 ## 시스템 아키텍쳐
