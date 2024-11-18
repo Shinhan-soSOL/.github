@@ -1,4 +1,5 @@
 # soSOL
+### 2024.10.21 ~ 2024.10.29
 
 # 개요
 
@@ -68,10 +69,10 @@
  # 👋🏻 참여 인원
 <table style="border: 0.5 solid gray">
  <tr>
-    <td align="center"><a href="https://github.com/ijustwannabeme"><img src="https://avatars.githubusercontent.com/u/56223389?v=4" width="130px;" alt=""></td>
-    <td align="center" style="border-right : 0.5px solid gray"><a href="https://github.com/soyalattee"><img src="https://avatars.githubusercontent.com/u/100784510?v=4" width="130px;" alt=""></td>
-    <td align="center"><a href="https://github.com/sooyeon-kr"><img src="https://avatars.githubusercontent.com/u/85729858?s=64&v=4" width="130px;" alt=""></td>
-    <td align="center" style="border-right : 0.5px solid gray"><a href="https://github.com/ShinHeeEul"><img src="https://avatars.githubusercontent.com/u/116863184?v=4" width="130px;" alt=""></td>
+    <td align="center"><a href="https://github.com/KimRiun"><img src="https://avatars.githubusercontent.com/u/56223389?v=4" width="130px;" alt=""></td>
+    <td align="center" style="border-right : 0.5px solid gray"><a href="https://github.com/subsub97"><img src="https://avatars.githubusercontent.com/u/100784510?v=4" width="130px;" alt=""></td>
+    <td align="center"><a href="https://github.com/OneK-2"><img src="https://avatars.githubusercontent.com/u/85729858?v=4" width="130px;" alt=""></td>
+    <td align="center" style="border-right : 0.5px solid gray"><a href="https://github.com/LimSeHyeon"><img src="https://avatars.githubusercontent.com/u/116863184?v=4" width="130px;" alt=""></td>
 
   </tr>
   
