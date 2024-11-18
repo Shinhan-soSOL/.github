@@ -108,7 +108,6 @@
       <li>기획</li>
       <li>Springboot 서버</li>
       <li>보유 종목 조회 등 로직 개발</li>
-      <li></li>
     </ul></td>
   </tr>
   
