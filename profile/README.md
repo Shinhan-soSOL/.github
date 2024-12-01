@@ -127,7 +127,6 @@
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/java_script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Tailwind css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/type_script-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Jotai](https://img.shields.io/badge/jotai-6E6E6E?style=for-the-badge&logo=jotai&logoColor=white)
 ![Mui](https://img.shields.io/badge/mui-2E64FE?style=for-the-badge&logo=mui&logoColor=white)
 ![axios](https://img.shields.io/badge/axios-0B6138?style=for-the-badge&logo=axios&logoColor=white)
