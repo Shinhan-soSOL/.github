@@ -51,12 +51,13 @@
  <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/70672347-8fff-4514-9331-4a1fcf6d5c58" width="200px" alt=""></td>
     <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/2a9e5c48-c764-4749-876a-9a27a08943c4" width="200px" alt=""></td>
-
+   <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/672349a3-e473-46a2-af02-2ebe65d4daf8" width="200px" alt=""></td>
   </tr>
   
   <tr>
     <td align="center"><b>계좌 및 잔돈 설정</b></td>
     <td align="center"style="border-right : 0.5px solid gray"><b>보유 주식 조회</b></td>
+    <td align="center"style="border-right : 0.5px solid gray"><b>결제 테스트</b></td>
   </tr>
 
 </table>
