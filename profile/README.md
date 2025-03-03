@@ -51,7 +51,7 @@
  <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/70672347-8fff-4514-9331-4a1fcf6d5c58" width="200px" alt=""></td>
     <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/2a9e5c48-c764-4749-876a-9a27a08943c4" width="200px" alt=""></td>
-   <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/672349a3-e473-46a2-af02-2ebe65d4daf8" width="200px" alt=""></td>
+   <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/84bd1f58-a252-4099-bd97-a101e58296e6" width="200px" alt=""></td>
   </tr>
   
   <tr>
